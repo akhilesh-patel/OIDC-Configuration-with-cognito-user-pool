@@ -15,3 +15,10 @@
 ![14](https://user-images.githubusercontent.com/64592542/171078706-b8d50887-8752-4071-b4b7-518a8d92292c.png)
 ![15](https://user-images.githubusercontent.com/64592542/171078718-f375ace9-4e1e-463a-ad24-70b635a1cc3e.png)
 ![16](https://user-images.githubusercontent.com/64592542/171078733-4d0ec975-4450-436c-bd02-74136272c943.png)
+....................................................................................................................
+Go to OpenID Connect Configuration
+link: https://openidconnect.net/
+
+![Screenshot (21)](https://user-images.githubusercontent.com/64592542/171079267-415425ee-99f3-46a7-b377-119a16202218.png)
+copy this link    https://openidconnect.net/callback  and put herte ![Screenshot (23)](https://user-images.githubusercontent.com/64592542/171079460-413343d4-f330-47d7-b99e-eb660d94d75f.png)
+
